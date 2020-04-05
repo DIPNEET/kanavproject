@@ -44,7 +44,7 @@ function draw(){
     ground.display();
     pig1.display();
     log1.display();
-
+//kanav
     box3.display();
     box4.display();
     pig3.display();
